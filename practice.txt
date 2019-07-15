@@ -1,1 +1,3 @@
-this is git practice
+this is a devops class
+this is also a git practice
+this is prudvi kotagiri.
